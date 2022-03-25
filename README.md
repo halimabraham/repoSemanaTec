@@ -73,7 +73,7 @@ Simple
 
 
 Kernel Mexican Hat
-![Kernel Mexican Hat](https://drive.google.com/file/d/1h5eh-nQd66AbkeRcJmD_vjZDAbiW67du/view)
+![Kernel Mexican Hat](https://drive.google.com/uc?id=1h5eh-nQd66AbkeRcJmD_vjZDAbiW67du)
 
 Mexican Hat con convolución
 ![Mexican Hat con convolución](https://drive.google.com/file/d/1wLoQjw7XzxqK2_4fs2R0g1wiXZL4l48a/view)
