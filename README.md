@@ -2,9 +2,9 @@
 ### repoSemanaTec
 
 ## Integrantes del equipo
-*Santiago Alberto Sorzano Mongel
-*Carlos Emilio Murillo Millán
-*Halim Abraham Hamanoiel Galindo
+###### Santiago Alberto Sorzano Mongel
+###### Carlos Emilio Murillo Millán
+###### Halim Abraham Hamanoiel Galindo
 
 
 ***Para nuestra semana Tec se nos pidió realizar una evidencia en la cual se realice un código de python el cual realice una función de Kernel, la cual se definirán y describirán a continuación.***
@@ -55,7 +55,7 @@ El Sombrero Mexicano se emplea con frecuencia para modelar datos sísmicos y com
 
 >*Referencia* https://wiki.seg.org/wiki/Dictionary:Ricker_wavelet 
 
-![lol](https://www.mariowiki.com/File:Sombrero_Guy_PMTOK_sprite.png)
+![lol](https://www.researchgate.net/profile/Hamid-Taghavifar/publication/262569642/figure/fig1/AS:270290823413764@1441453762087/An-example-of-a-Mexican-hat-wavelet-function.png)
 
 ## Resultados
 
@@ -64,17 +64,17 @@ Horizontal Edge
 
 
 Vertical Edge
-![Vertical edge](https://drive.google.com/file/d/1ECVdlosisxTmkariPlYvN8jOy1ssBJz5/view)
+![Vertical edge](https://drive.google.com/uc?id=1MQzr-Rl_zMWgGpEgcJ38Up4-koe3iNpv)
 
 Gradient Magnitude
-![Gradient Magnitude](https://drive.google.com/file/d/1ss1de4rjOIiOLqQafibITZuwonKyGR6m/view)
+![Gradient Magnitude](https://drive.google.com/uc?id=1yLSrgjugUEMq0K7RfkLjhQjgWqRm6jGe)
 
 Simple
-![Simple](https://drive.google.com/uc?id=1cJ_XzTbiIKiuMCraz0ZSgGnByiOOxpYN)
+![Simple](https://drive.google.com/uc?id=1qpHUlXwLnLRqXSppoPJuaCAu6YFVYrkx)
 
 
 Kernel Mexican Hat
-![Kernel Mexican Hat](https://drive.google.com/uc?id=1h5eh-nQd66AbkeRcJmD_vjZDAbiW67du)
+![Kernel Mexican Hat](https://drive.google.com/uc?id=1qH5hEqZOGjUOEnBdG9JiUHoO8TJ-xGZ9)
 
 Mexican Hat con convolución
-![Mexican Hat con convolución](https://drive.google.com/file/d/1wLoQjw7XzxqK2_4fs2R0g1wiXZL4l48a/view)
+![Mexican Hat con convolución](https://drive.google.com/uc?id=1w3GbggiVvegJYzEWob7I5mWKWVuDoJhM)
