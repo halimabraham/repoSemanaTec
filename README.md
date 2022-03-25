@@ -30,6 +30,7 @@ Y(ω) = FT del resultado y(t)
 **Las Funciones Kernel**. Son funciones *matemáticas* que se emplean en las Máquinas de Soporte Vectorial. Estas funciones son las que le permiten convertir lo que sería un problema de clasificación no lineal en el espacio dimensional original, a un sencillo problema de clasificación lineal en un espacio dimensional mayor.
 >*Link a la cita* https://www.ecured.cu/Funci%C3%B3n_Kernel
 
-![Kernel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFigura-3-Transformacion-mediante-la-funcion-kernel-para-separabilidad-lineal-Algunas-de_fig2_262590554&psig=AOvVaw3VIZNissCl8mPh3Gx_HWSf&ust=1648265140253000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJibsKWo4PYCFQAAAAAdAAAAABAD)
+![Kernel](https://www.ecured.cu/images/9/9b/Kernel1.jpg)
+
 
 ## Función Kernel ...
