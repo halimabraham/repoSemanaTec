@@ -2,9 +2,10 @@
 ### repoSemanaTec
 
 ## Integrantes del equipo
-Santiago Alberto Sorzano Mongel
-Carlos Emilio Murillo Millán
-Halim Abraham Hamanoiel Galindo
+*Santiago Alberto Sorzano Mongel
+*Carlos Emilio Murillo Millán
+*Halim Abraham Hamanoiel Galindo
+
 
 ***Para nuestra semana Tec se nos pidió realizar una evidencia en la cual se realice un código de python el cual realice una función de Kernel, la cual se definirán y describirán a continuación.***
 
