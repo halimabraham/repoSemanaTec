@@ -68,7 +68,8 @@ Gradient Magnitude
 ![Gradient Magnitude](https://drive.google.com/file/d/1ss1de4rjOIiOLqQafibITZuwonKyGR6m/view)
 
 Simple
-![Simple](https://drive.google.com/file/d/1MvPNuE7v4KZUEXKT70_9YXYcj3uDY5sS/view)
+![Simple](https://drive.google.com/uc?id=1cJ_XzTbiIKiuMCraz0ZSgGnByiOOxpYN)
+
 
 Kernel Mexican Hat
 ![Kernel Mexican Hat](https://drive.google.com/file/d/1h5eh-nQd66AbkeRcJmD_vjZDAbiW67du/view)
