@@ -59,7 +59,7 @@ El Sombrero Mexicano se emplea con frecuencia para modelar datos sísmicos y com
 ## Resultados
 
 Horizontal Edge
-![Horizontal edge](https://drive.google.com/uc?id=19c5PW277VF9m-0so9RGR0hyZ1MTOmC0x)
+![Horizontal edge](https://drive.google.com/uc?id=1ViWczesfhfyFe6OXiEIDtc9hIlrMl9dr)
 
 
 Vertical Edge
