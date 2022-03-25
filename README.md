@@ -34,3 +34,4 @@ Y(ω) = FT del resultado y(t)
 
 
 ## Función Kernel ...
+![sobel](https://i.stack.imgur.com/iShhS.png)
