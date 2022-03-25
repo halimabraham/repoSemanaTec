@@ -1,5 +1,5 @@
 # Función Kernel
-###repoSemanaTec
+### repoSemanaTec
 
 ***Para nuestra semana Tec se nos pidió realizar una evidencia en la cual se realice un código de python el cual realice una función de Kernel, la cual se definirá y describirá a continuación.***
 
