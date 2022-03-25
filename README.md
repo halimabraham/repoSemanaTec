@@ -55,7 +55,7 @@ El Sombrero Mexicano se emplea con frecuencia para modelar datos sísmicos y com
 
 >*Referencia* https://wiki.seg.org/wiki/Dictionary:Ricker_wavelet 
 
-![lol](https://www.researchgate.net/profile/Hamid-Taghavifar/publication/262569642/figure/fig1/AS:270290823413764@1441453762087/An-example-of-a-Mexican-hat-wavelet-function.png)
+![lol](https://www.mariowiki.com/File:Sombrero_Guy_PMTOK_sprite.png)
 
 ## Resultados
 
